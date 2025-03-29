@@ -114,7 +114,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contributions
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
 ---
 
 ## Acknowledgments
