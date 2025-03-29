@@ -107,11 +107,6 @@ Before setting up the project, ensure you have the following installed:
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Contributions
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 ---
