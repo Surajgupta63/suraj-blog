@@ -1,4 +1,4 @@
-# Blog Application with Authentication
+# Blogify Application with Authentication
 
 This is a simple blog application built with **Node.js**, **Express**, **MongoDB**, and **EJS** as the template engine. The application allows users to browse blogs, sign up, and log in. Authentication is handled using cookies, and MongoDB is used as the database to store user and blog information.
 
